@@ -1,5 +1,5 @@
 # react-projects
 
-| Project                       | Live |
-| ----------------------------- | ---- |
+| My Github url                 |
+| ----------------------------- |
 | (https://github.com/Umudvarr) |
