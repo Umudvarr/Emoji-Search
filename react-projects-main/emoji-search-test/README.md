@@ -19,4 +19,4 @@ Usage
 
 Teting Result
 ---
-![image](https://github.com/Umudvarr)
+![Run my repo](https://github.com/Umudvarr)
