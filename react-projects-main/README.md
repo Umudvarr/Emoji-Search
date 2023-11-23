@@ -1,4 +1,4 @@
-# react-projects
+# all-projects
 
 | My Github url                 |
 | ----------------------------- |
