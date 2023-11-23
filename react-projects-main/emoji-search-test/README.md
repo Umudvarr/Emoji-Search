@@ -19,4 +19,4 @@ Usage
 
 Teting Result
 ---
-![Run my repo](https://github.com/Umudvarr)
+![Run my repo](https://github.com/Umudvarr/Emoji-Search/tree/main/react-projects-main)
